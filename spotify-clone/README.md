@@ -1,3 +1,5 @@
+Built a music streaming platform clone using Next.js, React, and Tailwind CSS for the frontend. 
+Implemented the backend with Supabase and PostgreSQL, and integrated Stripe for payment processing. 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
